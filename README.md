@@ -1,3 +1,10 @@
-# Philippe Desjardins
+# Cloud-native web developer
 
-I'm a freelance software engineer, specialized in cloud-native web development
+I work with:
+
+- Python
+- Javascript
+- C#
+- Swift
+- Web components
+- AWS
