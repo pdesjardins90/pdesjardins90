@@ -1,6 +1,6 @@
 # About me
 
-I'm a software engineer and owner of [logisparte](https://github.com/logisparte)
+I'm a software engineer and founder of [logisparte](https://github.com/logisparte)
 
 We're a contracting company specialized in the industrial sector. We work with the web, the cloud, single-board computers and open source software
 
