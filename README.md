@@ -1,3 +1,3 @@
 # About me
 
-I'm a software engineer and founder of [logisparte](https://github.com/logisparte)
+I'm a software engineer and founder [@logisparte](https://github.com/logisparte)
